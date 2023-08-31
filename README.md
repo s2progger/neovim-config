@@ -1,4 +1,4 @@
-# S2Progger's NeoVim Config
+# s2Progger's NeoVim Config
 
 A simple (for now) nvim configuration that will likely be worse version of what lazyvim, lunarvim, astrovim, spacevim, and nvchad are already doing.
 
